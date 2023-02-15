@@ -1,4 +1,4 @@
-# Quantum-Glasses
+# Single Qubit Rotation Visualizer
 
 Points to remember while recreating
 
@@ -12,16 +12,5 @@ Built using: Python, Tkinter, Qiskit
 How the Visualizer looks?
 
 
-![image](https://user-images.githubusercontent.com/47387734/127348008-106532d8-e050-4a6d-9dfc-e349e1f6cc6c.png)
+![image](SQRViz.png)
 
-
-
-## Want to build this from scratch?
-
-Learn to build the software from scratch using this [video](https://youtu.be/wCrdbL5taj0)
-
-References:
-
-1. [Logo](https://icons8.com/icons/set/3d)
-2. Tkinter Documentation
-3. [Qiskit Documentation](https://qiskit.org/documentation/)
